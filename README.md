@@ -8,7 +8,7 @@
 
 *Algoritma Random Forest: Sebuah metode machine learning yang digunakan untuk mengklasifikasikan ulasan berdasarkan fitur-fitur yang diekstraksi dari teks. Random Forest dipilih karena kemampuannya dalam menangani data teks yang kompleks dan memberikan akurasi yang baik.*
 
-*Keywords Matching Extraction: Sebuah teknik untuk mengekstraksi kata kunci (keywords) yang relevan dari ulasan. Kata kunci ini digunakan untuk memperkaya fitur yang dimasukkan ke dalam model Random Forest, sehingga meningkatkan akurasi klasifikasi.*
+*Keywords Matching Extraction: Sebuah teknik untuk mengekstraksi kata kunci (keywords) yang relevan dari ulasan. Kata kunci ini digunakan untuk analisis fitur lebih mendalam, sehingga memperluas hasil analisis.*
 
 
 # Dataset
