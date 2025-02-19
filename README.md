@@ -4,7 +4,7 @@
 *Analisis Sentimen pada Ulasan Playstore dengan Random Forest dan Keywords Matching Extraction.*
 
 
-# Repositori ini berisi proyek analisis sentimen yang bertujuan untuk mengklasifikasikan ulasan aplikasi di Playstore menjadi kategori positif, negatif, atau netral. Proyek ini menggunakan dua pendekatan utama:
+# Repositori ini berisi proyek analisis sentimen yang bertujuan untuk mengklasifikasikan ulasan aplikasi (BriLink) di Playstore menjadi kategori positif, negatif. Proyek ini menggunakan dua pendekatan utama:
 
 *Algoritma Random Forest: Sebuah metode machine learning yang digunakan untuk mengklasifikasikan ulasan berdasarkan fitur-fitur yang diekstraksi dari teks. Random Forest dipilih karena kemampuannya dalam menangani data teks yang kompleks dan memberikan akurasi yang baik.*
 
